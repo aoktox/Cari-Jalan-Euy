@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cari Jalan Euy</string>
+    <string name="title_activity_maps">Cari Jalan</string>
+    <string name="cari_jalan">Cari Jalan</string>
+    <string name="ambil_titik">Ambil TItik</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
